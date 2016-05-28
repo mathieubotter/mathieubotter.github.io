@@ -41,7 +41,10 @@ hr {
   border: 0;
 }
 
-ul { font-size: 1.125em; }
+ul {
+  font-size: 1.125em;
+  line-height: 1.8;
+}
 ul li {
   list-style: none;
   display: inline-block;
