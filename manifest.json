@@ -1,0 +1,9 @@
+{
+    "name": "Mathieu Botter",
+    "short_name": "Mathieu B.",
+    "start_url": "/",
+    "theme_color": "#dedfe3",
+    "background_color": "#dedfe3",
+    "orientation": "portrait",
+    "display": "standalone"
+}
