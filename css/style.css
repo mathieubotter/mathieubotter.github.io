@@ -3,8 +3,10 @@
 body {
   color: var(--body-foreground);
   background-color: var(--body-background);
-  font-family: Muli, Helvetica, Arial, sans-serif;
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
   font-weight: 300;
+  font-style: normal;
   font-size: 18px;
   max-width: 640px;
   margin: 60px auto 40px;
